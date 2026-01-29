@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**pranay08-bit/pranay08-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on some ai based projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning about AI<br>💬 Ask me about<br>⚡ Fun fact
 
 
